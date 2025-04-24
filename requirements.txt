@@ -1,0 +1,11 @@
+﻿numpy
+pandas
+scikit-learn
+streamlit
+nltk
+gensim
+scipy==1.8.0  # Example version that might be more stable with gensim
+plotly
+yfinance
+pandas-datareader
+prophet
