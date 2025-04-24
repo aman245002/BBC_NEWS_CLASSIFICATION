@@ -73,7 +73,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository:
 
 
-git clone https://github.com/ManasRanjanJena6/bbc-news-classification-with-word2vec.git
+git clone https://github.com/aman245002/BBC_NEWS_CLASSIFICATION
 
 cd bbc-news-classification-with-word2vec
 
