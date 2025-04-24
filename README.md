@@ -66,13 +66,6 @@ Text snippet: the striker scored a hat-trick in yesterday's match...
 
 ---
 
-## 🚀 Live Demo
-
-You can try the live demo and test your own text predictions by visiting:  
-[**BBC News Classification App**](https://bbc-news-classification-with-word2vec.streamlit.app/)
-
----
-
 ## 📚 Installation and Usage
 
 To run this project locally, follow these steps:
